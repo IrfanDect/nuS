@@ -1,0 +1,2 @@
+"(ansi {fg: '#008df8 '} )(ansi {bg: '#7AA2F7' fg: '#3b4261'})  (ansi reset)(ansi { bg: '#3b4261' fg: '#7AA2F7'})(ansi {bg: '#3b4261' fg: '#7AA2F7' attr: b }) irfanoid.(ansi {bg: '#3b4261' fg: '#f7768e'}) (ansi {bg: '#3b4261' fg: '#7AA2F7' attr: b }) (ansi reset)(ansi {fg: '#3b4261'}) "
+ 
